@@ -1,0 +1,12 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple webpack configuration for web development",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["webpack", "webpack configuration"],
+  "author": "4betterweb",
+  "license": "MIT"
+}
